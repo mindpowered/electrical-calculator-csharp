@@ -1,0 +1,13 @@
+/nologo
+/optimize+
+/debug-
+/unsafe-
+/warn:0
+/out:c:/builds/mindpowered/logic/electrical-calculator/build/vcs/csharp/bin/electricalc.dll
+/target:library
+/reference:c:/builds/mindpowered/logic/electrical-calculator/build/vcs/csharp/bin/maglev.dll
+src\EnumValue.cs
+src\Type.cs
+src\electricalc\ElectriCalc.cs
+src\UInt.cs
+src\mindpowered\electricalc\ElectriCalc.cs
